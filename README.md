@@ -1,13 +1,25 @@
 ## Position within LUMINA-30
-Primary entry point: [Lumi30-Index](https://github.com/lumina-30/Lumi30-Index)
 
-This repository exists within the LUMINA-30 civilizational boundary reference structure.
+Primary users / 主な対象者: citation users, archivists, auditors, and readers who need fixed downloadable records.  
+引用利用者、アーカイブ担当、監査担当、固定PDFを必要とする読者向け。
 
-It is non-binding and descriptive.
-It does not mandate action, propose policy, or prescribe implementation.
+Use this repository when you need stable PDF artifacts or offline-preservable copies.  
+安定したPDF成果物やオフライン保存可能な写しが必要な場合に使用。
 
-Hub (structural map):
-https://github.com/lumina-30/lumina-30-overview
+Do not use this as the main conceptual entry point. Use the Overview or Index first when context is needed.  
+概念理解の入口としては使わず、文脈確認が必要な場合は Overview または Index を先に使用。
+
+- [Lumi30-Index / LUMINA-30 索引](https://github.com/lumina-30/Lumi30-Index)  
+  Use this to locate the repository or document you need before downloading PDFs.  
+  PDF取得前に必要なrepo・文書を確認する入口。
+
+- [Public Record / 公開記録](https://github.com/lumina-30/Lumi30-Public-Record)  
+  Use this when record identity, hashes, or fixed public evidence are needed.  
+  記録識別子、ハッシュ、固定公開記録の確認に使用。
+
+- [LUMINA-30 Overview / LUMINA-30 概要](https://github.com/lumina-30/lumina-30-overview)  
+  Use this when the meaning of a PDF artifact is unclear.  
+  PDF成果物の位置づけが不明な場合に使用。
 
 ---
 
@@ -45,14 +57,17 @@ It is intended for:
 
 ## Related repositories / 関連リポジトリ
 
-- [Lumi30-Public-Record](https://github.com/lumina-30/Lumi30-Public-Record)  
-  Integrity and hash reference for fixed records
+- [Public Record / 公開記録真正性](https://github.com/lumina-30/Lumi30-Public-Record)  
+  Integrity and hash reference for fixed records.  
+  固定記録の真正性とハッシュ参照。
 
-- [lumina30-public-reference](https://github.com/lumina-30/lumina30-public-reference)  
-  Public discovery and citation entry
+- [Public Reference / 公開参照ハブ](https://github.com/lumina-30/lumina30-public-reference)  
+  Public discovery and citation entry.  
+  公開向けの発見性・引用入口。
 
-- [Lumi30-Index](https://github.com/lumina-30/Lumi30-Index)  
-  Structural entry and navigation
+- [Lumi30-Index / LUMINA-30 索引](https://github.com/lumina-30/Lumi30-Index)  
+  Main entry index for the repository network.  
+  repo群全体の入口索引。
 
 ---
 
