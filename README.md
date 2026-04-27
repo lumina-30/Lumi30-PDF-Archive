@@ -31,6 +31,15 @@ This material:
 - does not guarantee safety, legality, or ethical adequacy.
 - does not delegate refusal authority to AI systems.
 
+## Boundary Reference Note / 境界参照注記
+
+This repository is a non-binding archive and boundary-reference layer for fixed PDF artifacts.  
+It does not mandate action, propose policy, prescribe implementation, create certification status, or create compliance obligations.
+
+本リポジトリは、固定PDF成果物のための非拘束アーカイブ兼境界参照レイヤーである。  
+行動を命令せず、政策を提案せず、実装を規定せず、認証状態や適合義務を作らない。
+
+
 This repository provides fixed downloadable PDF artifacts for preservation, stable distribution, and offline reference.
 
 It is intended for:
