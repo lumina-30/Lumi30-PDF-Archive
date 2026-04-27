@@ -40,6 +40,23 @@ It does not mandate action, propose policy, prescribe implementation, create cer
 行動を命令せず、政策を提案せず、実装を規定せず、認証状態や適合義務を作らない。
 
 
+
+## Citation Chain / 引用導線
+
+Use this repository when a reader needs stable downloadable PDF artifacts. Do not use it as the first conceptual or practical entry point.
+
+読者が安定したダウンロード用PDF成果物を必要とする場合に、このrepoを使用する。最初の概念入口または実務入口としては使用しない。
+
+Recommended route:
+
+1. Understand the framework: `lumina-30-overview`
+2. Navigate the repository network: `Lumi30-Index`
+3. Cite compactly: `lumina30-public-reference`
+4. Verify fixed records and hashes: `Lumi30-Public-Record`
+5. Download stable PDFs: this repository
+
+PDF availability does not create certification, compliance status, legal approval, or operational authority.
+
 This repository provides fixed downloadable PDF artifacts for preservation, stable distribution, and offline reference.
 
 It is intended for:
@@ -84,3 +101,5 @@ It is intended for:
 
 This repository is not primarily interpretive.
 It is a fixed archive and distribution layer.
+
+
