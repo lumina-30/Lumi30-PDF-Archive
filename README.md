@@ -67,6 +67,24 @@ It is intended for:
 
 ---
 
+## Research Papers / 研究論文
+
+- **Pre-Critical Recursive Cutoff: A Staged Infrastructure Control Framework for Irreversibility Risk**  
+  Role: evaluation-condition and infrastructure-control research.  
+  DOI: [10.5281/zenodo.18824181](https://doi.org/10.5281/zenodo.18824181)
+
+- **On the Structural Instability of Objective Persistence in Self-Contained Systems**  
+  Role: existence-condition supporting research.  
+  Version DOI: [10.5281/zenodo.19887870](https://doi.org/10.5281/zenodo.19887870)  
+  Concept DOI: [10.5281/zenodo.19887869](https://doi.org/10.5281/zenodo.19887869)  
+  Local PDF archive copy: [On_the_Structural_Instability_of_Objective_Persistence_in_Self_Contained_Systems.pdf](./On_the_Structural_Instability_of_Objective_Persistence_in_Self_Contained_Systems.pdf)
+
+These papers are supporting research artifacts. They do not create certification status, compliance obligations, deployment authorization, or institutional approval under LUMINA-30.
+
+これらの論文は補助研究成果物である。LUMINA-30における認証状態、適合義務、展開認可、制度的承認を作らない。
+
+---
+
 ## What belongs here / ここに置くべきもの
 
 - fixed public PDFs
@@ -101,5 +119,7 @@ It is intended for:
 
 This repository is not primarily interpretive.
 It is a fixed archive and distribution layer.
+
+
 
 
