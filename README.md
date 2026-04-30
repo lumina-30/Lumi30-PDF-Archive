@@ -75,7 +75,7 @@ It is intended for:
 
 - **On the Structural Instability of Objective Persistence in Self-Contained Systems**  
   Role: existence-condition supporting research.  
-  Version DOI: [10.5281/zenodo.19887870](https://doi.org/10.5281/zenodo.19887870)  
+  Version DOI: [10.5281/zenodo.19896405](https://doi.org/10.5281/zenodo.19896405)  
   Concept DOI: [10.5281/zenodo.19887869](https://doi.org/10.5281/zenodo.19887869)  
   Local PDF archive copy: [On_the_Structural_Instability_of_Objective_Persistence_in_Self_Contained_Systems.pdf](./On_the_Structural_Instability_of_Objective_Persistence_in_Self_Contained_Systems.pdf)
 
@@ -119,6 +119,8 @@ These papers are supporting research artifacts. They do not create certification
 
 This repository is not primarily interpretive.
 It is a fixed archive and distribution layer.
+
+
 
 
 
