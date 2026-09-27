@@ -90,6 +90,20 @@ It is intended for:
   Concept DOI: [10.5281/zenodo.19887869](https://doi.org/10.5281/zenodo.19887869)  
   Local PDF archive copy: [On_the_Structural_Instability_of_Objective_Persistence_in_Self_Contained_Systems.pdf](./On_the_Structural_Instability_of_Objective_Persistence_in_Self_Contained_Systems.pdf)
 
+- **The Refusal Option: Effective Human Control Before and Beyond Irreversible AI Transitions**  
+  Role: human-standing, effective-refusal, and decision-governance research layer. It examines whether an independent Human NO remains operationally effective in time and capable of changing the outcome before irreversibility.  
+  Version: 1.0 (Preprint, published 2026-09-27)  
+  Version DOI: [10.5281/zenodo.22980039](https://doi.org/10.5281/zenodo.22980039)  
+  Concept DOI: [10.5281/zenodo.22980038](https://doi.org/10.5281/zenodo.22980038)  
+  Local PDF archive copy: [The_Refusal_Option_Effective_Human_Control_Before_and_Beyond_Irreversible_AI_Transitions.pdf](./The_Refusal_Option_Effective_Human_Control_Before_and_Beyond_Irreversible_AI_Transitions.pdf)  
+  Research-to-practice guide: [The Refusal Option and LUMINA-30](https://lumina-30.github.io/lumina-30-overview/research/the-refusal-option.html)
+
+### Paper numbering and public set ｜ 論文番号と公開資料群
+
+Paper numbers follow internal research chronology, not publication sequence. The current public research set contains Papers 1, 2, and 5. Papers 3 and 4 are internal unpublished research and are not part of the current public LUMINA-30 research set. Their absence from the public sequence is intentional and does not indicate missing files, withdrawal, or numbering error. Do not infer, reconstruct, or cite unpublished content from the numbering.
+
+論文番号は内部研究上の時系列であり、公開順を意味しない。現在の公開研究資料群は第1・第2・第5論文である。第3・第4論文は内部研究として存在するが、現在の公開LUMINA-30研究資料群には含めない。公開系列に存在しないことは、欠落、撤回、番号誤りを意味しない。番号から非公開内容を推測・再構成・引用しない。
+
 These papers are research artifacts supporting LUMINA-30. They do not create certification status, compliance obligations, deployment authorization, or institutional approval under LUMINA-30.
 
 これらの論文はLUMINA-30を支える研究成果物である。LUMINA-30における認証状態、適合義務、展開認可、制度的承認を作らない。
