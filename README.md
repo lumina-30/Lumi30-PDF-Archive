@@ -82,27 +82,38 @@ It is intended for:
 
 - **Pre-Critical Recursive Cutoff: A Staged Infrastructure Control Framework for Irreversibility Risk**  
   Role: primary operational paper; evaluation-condition and infrastructure-control research.  
-  DOI: [10.5281/zenodo.18824181](https://doi.org/10.5281/zenodo.18824181)
+  Current version: v16  
+  Version DOI: [10.5281/zenodo.23288056](https://doi.org/10.5281/zenodo.23288056)  
+  Concept DOI: [10.5281/zenodo.18824181](https://doi.org/10.5281/zenodo.18824181)  
+  Local PDF archive copy: [Pre_Critical_Recursive_Cutoff_A_Staged_Infrastructure_Control_Framework_for_Irreversibility_Risk_v16.pdf](./Pre_Critical_Recursive_Cutoff_A_Staged_Infrastructure_Control_Framework_for_Irreversibility_Risk_v16.pdf)
 
 - **On the Structural Instability of Objective Persistence in Self-Contained Systems**  
-  Role: related supporting paper; existence-condition layer. It does not replace PCR-C as the primary operational paper.  
-  Version DOI: [10.5281/zenodo.19896405](https://doi.org/10.5281/zenodo.19896405)  
+  Role: related supporting paper; existence-condition / assurance-independence layer. It does not replace PCR-C as the primary operational paper.  
+  Current version: v3  
+  Version DOI: [10.5281/zenodo.23282068](https://doi.org/10.5281/zenodo.23282068)  
   Concept DOI: [10.5281/zenodo.19887869](https://doi.org/10.5281/zenodo.19887869)  
-  Local PDF archive copy: [On_the_Structural_Instability_of_Objective_Persistence_in_Self_Contained_Systems.pdf](./On_the_Structural_Instability_of_Objective_Persistence_in_Self_Contained_Systems.pdf)
+  Local PDF archive copy: [On_the_Structural_Instability_of_Objective_Persistence_in_Self_Contained_Systems_v3.pdf](./On_the_Structural_Instability_of_Objective_Persistence_in_Self_Contained_Systems_v3.pdf)
 
 - **The Refusal Option: Effective Human Control Before and Beyond Irreversible AI Transitions**  
-  Role: human-standing, effective-refusal, and decision-governance research layer. It examines whether an independent Human NO remains operationally effective in time and capable of changing the outcome before irreversibility.  
-  Version: 1.0 (Preprint, published 2026-09-27)  
-  Version DOI: [10.5281/zenodo.22980039](https://doi.org/10.5281/zenodo.22980039)  
+  Role: human-standing, effective-refusal, and decision-governance research layer.  
+  Current version: v1.3  
+  Version DOI: [10.5281/zenodo.23282593](https://doi.org/10.5281/zenodo.23282593)  
   Concept DOI: [10.5281/zenodo.22980038](https://doi.org/10.5281/zenodo.22980038)  
-  Local PDF archive copy: [The_Refusal_Option_Effective_Human_Control_Before_and_Beyond_Irreversible_AI_Transitions.pdf](./The_Refusal_Option_Effective_Human_Control_Before_and_Beyond_Irreversible_AI_Transitions.pdf)  
+  Local PDF archive copy: [The_Refusal_Option_Effective_Human_Control_Before_and_Beyond_Irreversible_AI_Transitions_v1.3.pdf](./The_Refusal_Option_Effective_Human_Control_Before_and_Beyond_Irreversible_AI_Transitions_v1.3.pdf)  
   Research-to-practice guide: [The Refusal Option and LUMINA-30](https://lumina-30.github.io/lumina-30-overview/research/the-refusal-option.html)
+
+- **Pre-Irreversibility Safety for Advanced AI: Distributed Irreversible Authority, Timely Refusal, and Human-Revisable Development**  
+  Role: integrated pre-irreversibility safety research layer.  
+  Current version: v1.2  
+  Version DOI: [10.5281/zenodo.23283256](https://doi.org/10.5281/zenodo.23283256)  
+  Concept DOI: [10.5281/zenodo.23042905](https://doi.org/10.5281/zenodo.23042905)  
+  Local PDF archive copy: [Pre-Irreversibility_Safety_for_Advanced_AI_v1.2.pdf](./Pre-Irreversibility_Safety_for_Advanced_AI_v1.2.pdf)
 
 ### Paper numbering and public set ｜ 論文番号と公開資料群
 
-Paper numbers follow internal research chronology, not publication sequence. The current public research set contains Papers 1, 2, and 5. Papers 3 and 4 are internal unpublished research and are not part of the current public LUMINA-30 research set. Their absence from the public sequence is intentional and does not indicate missing files, withdrawal, or numbering error. Do not infer, reconstruct, or cite unpublished content from the numbering.
+Paper numbers follow internal research chronology, not publication sequence. The current public research set contains Papers 1, 2, 5, and 6. Papers 3 and 4 are internal unpublished research and are not part of the current public LUMINA-30 research set. Their absence from the public sequence is intentional and does not indicate missing files, withdrawal, or numbering error. Do not infer, reconstruct, or cite unpublished content from the numbering.
 
-論文番号は内部研究上の時系列であり、公開順を意味しない。現在の公開研究資料群は第1・第2・第5論文である。第3・第4論文は内部研究として存在するが、現在の公開LUMINA-30研究資料群には含めない。公開系列に存在しないことは、欠落、撤回、番号誤りを意味しない。番号から非公開内容を推測・再構成・引用しない。
+論文番号は内部研究上の時系列であり、公開順を意味しない。現在の公開研究資料群は第1・第2・第5・第6論文である。第3・第4論文は内部研究として存在するが、現在の公開LUMINA-30研究資料群には含めない。公開系列に存在しないことは、欠落、撤回、番号誤りを意味しない。番号から非公開内容を推測・再構成・引用しない。
 
 These papers are research artifacts supporting LUMINA-30. They do not create certification status, compliance obligations, deployment authorization, or institutional approval under LUMINA-30.
 
